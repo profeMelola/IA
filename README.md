@@ -8,12 +8,12 @@
 
 - Entender los fundamentos de las redes neuronales y de los algoritmos genéticos.
 - Ver de forma práctica dichos algoritmo con el programa programado en Processing.
-- Realizar diferentes pruebas con el programa. Tantas como queramos.
+- Realizar diferentes pruebas con el programa.
 - Comprender las posibilidades de aplicar IA a un juego en Unity a través de varias demos expositivas.
 
 ## Recursos
 
-###Processing: creación de código creativo 
+### Processing: creación de código creativo 
 
 Processing es un lenguaje de programación y entorno de desarrollo integrado de código abierto basado en Java, de fácil utilización, y que sirve como medio para la enseñanza y producción de proyectos multimedia e interactivos de diseño digital.
 
