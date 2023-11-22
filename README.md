@@ -1,7 +1,7 @@
 # TALLER: ¿Cómo entrenar a tu videojuego con Inteligencia Artificial?
 ![image](https://github.com/profeMelola/IA/assets/91023374/e09b641d-0a73-4029-a27a-c884147017bf)
 
-Escuela Politécnica Superior Campus Científico-Tecnológico - UAH
+*Escuela Politécnica Superior Campus Científico-Tecnológico - UAH*
 
 
 ## Objetivos del taller:
